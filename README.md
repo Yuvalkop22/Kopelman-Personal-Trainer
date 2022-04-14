@@ -9,7 +9,7 @@ This website icludes 4 pages:
 
 In the future this website will be MERN application includes connection to MongoDB
 
-Enjoy the website below!
+Enjoy the video below!
 
 https://user-images.githubusercontent.com/80945323/163442046-b8f37527-599d-48cf-8585-41d2e8e615b0.mp4
 
